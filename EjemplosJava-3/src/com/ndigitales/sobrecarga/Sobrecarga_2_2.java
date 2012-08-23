@@ -8,11 +8,6 @@ package com.ndigitales.sobrecarga;
  */
 public class Sobrecarga_2_2 {
 
-	/**
-	 * Muestra resultado
-	 * @param neto
-	 * @param desc
-	 */
 	public static void mostrar(float neto, float desc) {
 
 		System.out.printf("El descuento fue de : %6.2f %n",desc);

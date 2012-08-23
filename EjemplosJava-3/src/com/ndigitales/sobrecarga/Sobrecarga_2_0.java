@@ -8,7 +8,6 @@ public class Sobrecarga_2_0 {
 		final float DESCUENTO = 23;
 		
 		Sobrecarga_2_1 calcularImporteFinal = new Sobrecarga_2_1();
-		
 		calcularImporteFinal.ingresandoDatos(PROMOCION, DESCUENTO);
 		
 	}
